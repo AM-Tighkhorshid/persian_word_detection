@@ -1,0 +1,1 @@
+# persian_word_detection
