@@ -5,7 +5,7 @@ In this project, Persian words have been recognized and labeled by changing the 
 Then, using the imglabel software, the obtained labels have been modified manually.
 
 ## training the CRAFT text detector
-The obtained data has been used to retrain the craft on KerasOCR and EasyOCR platforms. the related codes for training are also available.
+The obtained data has been used to retrain the craft on KerasOCR and EasyOCR frameworks. the related codes for training are also available.
 
 ## results
 
